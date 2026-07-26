@@ -46,6 +46,7 @@ An interactive Excel dashboard built using the SQL query outputs to visualize th
 - ORDER BY
 - Aggregate Functions
 - CASE Statements
+- Common Table Expressions (CTEs)
 - Window Functions
 
 **Analysis Performed**
